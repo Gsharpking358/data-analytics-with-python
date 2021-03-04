@@ -1,0 +1,1 @@
+This repository contains exercises and projects done as part of the data analytics with python program with GreyAtom. 
